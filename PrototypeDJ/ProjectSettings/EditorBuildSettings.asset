@@ -6,12 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Resources/Scenes/HCI-PersonalityTest.unity
+    guid: 065aae15e0673d6439a503c5d435ee91
   - enabled: 1
-    path: Assets/ModularGameUIKit/Demo/Scenes/Main-Portrait/Home-Portrait.unity
-    guid: 2e08cbd9681b5453fa56abd142427518
-  - enabled: 1
-    path: Assets/ModularGameUIKit/Demo/Scenes/Main-Portrait/Game-Portrait.unity
-    guid: 901869ec31fe04fb6aeb54a5966f7a4b
+    path: Assets/Resources/Scenes/HCI-Home.unity
+    guid: 87c6f571bb0c39c48bfd93705b1f368a
   m_configObjects: {}
